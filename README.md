@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--# ¡Hola mundo! Soy [Tu Nombre] 👋
+# ¡Hola mundo! Soy Santi 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Artesano+del+Código;Desarrollador+Multiplataforma;Entusiasta+de+Android;Apasionado+por+la+Lógica" alt="Typing SVG" />
@@ -12,8 +10,8 @@ Soy un desarrollador apasionado por el arte de transformar café☕ y líneas de
 
 Soy un firme creyente de que **la tecnología adecuada para el problema adecuado** es la clave del éxito. Por eso, mi caja de herramientas es versátil: desde tejer UI modernas con **Compose**, hasta construir soluciones rápidas con **Flutter** o sumergirme en la lógica pura de **Python** o el backend con **Java**. No temo a los desafíos complejos ni a aprender una nueva sintaxis si eso me permite resolver un problema de forma elegante.
 
-* 🔭 Actualmente estoy enfocado en: **[Escribe aquí tu proyecto actual, ej: Dominar KMP o integraciones con Odoo]**
-* 🌱 Aprendiendo constantemente sobre: **[Ej: Jetpack Compose avanzado o IA]**
+* 🔭 Actualmente estoy enfocado en: **MAYA_AQSS**
+* 🌱 Aprendiendo constantemente sobre: **Jetpack Compose avanzado u ODOO**
 * 💬 Pregúntame sobre: **Android, Flutter o por qué SQL es amor/odio**.
 
 ---
@@ -72,11 +70,11 @@ Soy un firme creyente de que **la tecnología adecuada para el problema adecuado
 ## 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img href="https://github.com/anuraghazra/github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_DE_GITHUB]&show_icons=true&locale=es&theme=radical&hide_border=true" alt="Estadísticas de [Tu Nombre]" />
+  <img href="https://github.com/anuraghazra/github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=sansellop10&show_icons=true&locale=es&theme=radical&hide_border=true" alt="Estadísticas de Santi" />
 </p>
 
 <p align="center">
-  <img href="https://github.com/anuraghazra/github-readme-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_DE_GITHUB]&layout=compact&languages_count=6&theme=radical&hide_border=true" alt="Lenguajes más usados por [Tu Nombre]" />
+  <img href="https://github.com/anuraghazra/github-readme-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sansellop10&layout=compact&languages_count=6&theme=radical&hide_border=true" alt="Lenguajes más usados por Santi" />
 </p>
 
 ---
@@ -100,16 +98,3 @@ Soy un firme creyente de que **la tecnología adecuada para el problema adecuado
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=El%20código%20es%20poesía%20escrita%20en%20binario." alt="Cita" />
 </p>
-**sansellop10/sansellop10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
