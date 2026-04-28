@@ -34,7 +34,11 @@ Soy un firme creyente de que **la tecnología adecuada para el problema adecuado
       <br>Dart
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQL" />
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" />
+      <br>SQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
       <br>SQL
     </td>
   </tr>
@@ -58,6 +62,10 @@ Soy un firme creyente de que **la tecnología adecuada para el problema adecuado
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg" width="48" height="48" alt="NetBeans" />
       <br>NetBeans
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="Intellij" />
+      <br>VS Code
     </td>
   </tr>
 </table>
