@@ -8,12 +8,12 @@ Soy un desarrollador apasionado por el arte de transformar café☕ y líneas de
 Soy un firme creyente de que **la tecnología adecuada para el problema adecuado** es la clave del éxito. Por eso, mi caja de herramientas es versátil: desde tejer UI modernas con **Compose**, hasta construir soluciones rápidas con **Flutter** o sumergirme en la lógica pura de **Python** o el backend con **Java**. No temo a los desafíos complejos ni a aprender una nueva sintaxis si eso me permite resolver un problema de forma elegante.
 
 * 🔭 Actualmente estoy enfocado en: **MAYA_AQSS**
-* 🌱 Aprendiendo constantemente sobre: **Jetpack Compose avanzado u ODOO**
+* 🌱 Aprendiendo constantemente sobre: **Jetpack Compose avanzado o C++**
 * 💬 Pregúntame sobre: **Android, Flutter o por qué SQL es amor/odio**.
 
 ---
 
-## 🛠️ Mi Caja de Herramientas Tecnológicas
+## 🛠️ Mis habilidades
 
 <table align="center">
   <tr>
@@ -65,7 +65,7 @@ Soy un firme creyente de que **la tecnología adecuada para el problema adecuado
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="Intellij" />
-      <br>VS Code
+      <br>IntelliJ Idea
     </td>
   </tr>
 </table>
