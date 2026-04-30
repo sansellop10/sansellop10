@@ -39,7 +39,7 @@ Soy un firme creyente de que **la tecnología adecuada para el problema adecuado
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-      <br>SQL
+      <br>C++
     </td>
   </tr>
   <tr>
