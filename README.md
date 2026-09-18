@@ -1,14 +1,13 @@
 # ¡Hola mundo! Soy Santi 👋
 
 
-## 🚀 Sobre mí...
-
-Soy un desarrollador apasionado por el arte de transformar café☕ y líneas de código en experiencias digitales tangibles. Mi ecosistema natural es el **desarrollo móvil**, donde disfruto dando vida a interfaces hermosas y fluidas, pero mi curiosidad no tiene límites.
+## Sobre mí...
+Soy un estudiante de informatica de que al finalizar DAM su ansia de conocimiento le llevo a interesarse por el mundo del desarrollo web. Actualmente estoy cusrando el grado superior de DAW y espero poder labrarme un buen futuro con todo lo que se y sigo aprendiendo.
 
 Soy un firme creyente de que **la tecnología adecuada para el problema adecuado** es la clave del éxito. Por eso, mi caja de herramientas es versátil: desde tejer UI modernas con **Compose**, hasta construir soluciones rápidas con **Flutter** o sumergirme en la lógica pura de **Python** o el backend con **Java**. No temo a los desafíos complejos ni a aprender una nueva sintaxis si eso me permite resolver un problema de forma elegante.
 
-* 🔭 Actualmente estoy enfocado en: **MAYA_AQSS**
-* 🌱 Aprendiendo constantemente sobre: **Jetpack Compose avanzado o C++**
+* 🔭 Actualmente estoy enfocado en: **DAW**
+* 🌱 Aprendiendo constantemente sobre: **JavaScript o C++**
 * 💬 Pregúntame sobre: **Android, Flutter o por qué SQL es amor/odio**.
 
 ---
